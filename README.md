@@ -1,6 +1,6 @@
 <!-- Profile README for ProfDian (renders on https://github.com/ProfDian) -->
 
-# Prof Dian — Full‑stack & Backend Developer | AI/ML Enthusiast
+# ProfDian — Full‑stack & Backend Developer | AI/ML Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ProfDian&style=flat-square&color=1E88E5)](https://github.com/ProfDian)
 [![GitHub Followers](https://img.shields.io/github/followers/ProfDian?label=Followers&style=flat-square&color=E53935)](https://github.com/ProfDian?tab=followers)

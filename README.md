@@ -1,41 +1,39 @@
-# Hi, I’m ProfDian
+# ProfDian — Backend Engineer | Data Science & AI/ML Enthusiast
 
-**Software Engineer • Full‑stack Web (React / Node.js / Firebase)**
+I build **backend APIs** and **data-driven systems**, and I’m actively learning/growing in **Data Science / AI-ML**.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ProfDian&style=flat-square)](https://github.com/ProfDian)
 
 ## About Me
-- I build web apps end‑to‑end: **frontend dashboards**, **backend APIs**, and **cloud-ready deployments**.
-- Recent focus: **data-driven dashboards**, **authentication/authorization**, and **real-world project documentation**.
-- Open to: **internship / junior / freelance** opportunities (replace with your preference).
+- Backend focus: **REST APIs**, **auth (JWT/roles)**, **caching**, and **reporting/export (PDF/Excel)**
+- Comfortable shipping full-stack when needed (React dashboards), but I’m most excited about **server-side engineering**
+- AI/ML interest: data exploration, model experimentation, and production-minded learning
 
 ## Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,firebase,aws,python,git,github,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,aws,firebase,js,ts,react,git,github,tailwind" />
 </p>
 
 ## Featured Projects
 | Project | What it is | Tech |
 |---|---|---|
-| **IPAL Monitoring – Server** | Backend API for IPAL (wastewater treatment) monitoring: auth, sensors/water-quality ingestion, dashboards, alerts, reports, caching | Node.js, Express, Firebase Admin, JWT | 
-| **IPAL Monitoring – Client** | Frontend dashboard: charts, map visualization, token-based auth flow, shared API wrapper | React, Vite, Tailwind, React Query, Leaflet | 
-| **Web Desa Wisata Surjo** | Tourism village website: responsive pages, routing, animations, Vercel SPA rewrites | React, Vite, Tailwind, Framer Motion | 
-| **AmbAnime** | Anime browsing app powered by Jikan API + Firebase Auth/Firestore (favorites, watchlist, reviews) | React (CRA), Firebase, React Router | 
+| **IPAL Monitoring – Server** | Backend API for IPAL monitoring: auth, sensors/water-quality ingestion, dashboards, alerts, reports, caching | Node.js, Express, Firebase Admin, JWT |
+| **IPAL Monitoring – Client** | Monitoring dashboard: charts, map visualization, token-based auth flow, shared API wrapper | React, Vite, Tailwind, React Query, Leaflet |
+| **Web Desa Wisata Surjo** | Responsive tourism village website with routing + animations; Vercel SPA rewrites | React, Vite, Tailwind, Framer Motion |
+| **AmbAnime** | Anime app powered by Jikan API + Firebase Auth/Firestore (favorites, watchlist, reviews) | React (CRA), Firebase, React Router |
 
-Links:
+Quick links:
 - https://github.com/ProfDian/IPAL-Monitoring-Server
 - https://github.com/ProfDian/IPAL-Monitoring-Client
 - https://github.com/ProfDian/Web-Desa-Wisata-Surjo
 - https://github.com/ProfDian/AmbAnime
 
 ## Current Learning
-- System design fundamentals (APIs, caching, auth)
-- Cloud & deployment (AWS basics, CI/CD)
-- Better testing and code quality practices
+- Backend: system design basics (APIs, caching, auth, scalability)
+- Cloud: deployment patterns + AWS fundamentals
+- Data Science / AI-ML: practical projects and better fundamentals (feature engineering, evaluation, deployment mindset)
 
 ## GitHub Stats
-> If you prefer a different theme, tell me and I’ll adjust.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfDian&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfDian&layout=compact&theme=transparent)
 
@@ -45,4 +43,4 @@ Links:
 - Email: **(add email)**
 
 ---
-If you share your **preferred display name + headline** (e.g., “Abdul Fattah — Full‑stack Developer”), plus your **portfolio + LinkedIn**, I can make this README fully personalized.
+If you share your **real name** + **portfolio/LinkedIn links**, I can remove placeholders and make this fully personalized.
